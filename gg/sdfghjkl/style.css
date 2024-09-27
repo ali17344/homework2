@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #323232;
+    color: #f6f6f6;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    height: 300px;
+    width: 600px;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+#item5{ 
+    color:white;
+    font-size: 50px;   
+}
