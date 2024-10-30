@@ -1,0 +1,65 @@
+.col-6-text{
+    color:#FFFFFF;
+    width: 348.17px;
+    height: 39px;
+    margin-top: 80px;
+    margin-left: 250px;
+    gap: 0px;
+    font-family: 'Playfair Display',serif;
+    font-size: 36px;
+    line-height: 42.19px;
+    text-align: center; 
+}
+.hr2{
+    width: 111.12px;
+    height: 0px;
+    margin-top: 30px;
+    margin-left: 360px;
+    margin-bottom: 60px;
+    border: 1px solid #FFFFFF    
+}
+.sale-time-card{
+    width: 240.75px;
+    height: 325px;
+    margin: -20px 20px;
+}
+.col-6-2{
+    position: absolute; 
+    width: 408.9px;
+    height: 146px;
+    margin-top: -200px;
+    margin-left: 150.05px;
+}
+.col-6-2 h3{
+    width: 408.9px;
+    height: 39px;
+    font-family: 'Playfair Display',serif;
+    font-size: 36px;
+    line-height: 42.19px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.hr3{
+    width: 130.5px;
+    height: 0px;
+    margin-top: 30px;
+    margin-left:150px;
+    border: 1px solid #FFFFFF;
+}
+.sale-btn{
+    width: 138px;
+    height: 47px;
+    margin-top: 30px;
+    margin-left: 150px;
+    padding: 12px 28px 12px 28px;
+    gap: 10px;
+    border: 1px solid #FFFFFF;
+    font-family: PT Sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.29px;
+    letter-spacing: 0.1em;
+    text-align: center;
+    background-color: transparent;
+    color: #FFFFFF;
+}

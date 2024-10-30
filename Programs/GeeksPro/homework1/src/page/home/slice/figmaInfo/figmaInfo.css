@@ -1,0 +1,17 @@
+.figma{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+.figma-info{
+    width: 155px;
+    height: 16px;
+    margin-top: 15px;
+    font-family: PT Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.53px;
+    text-align: left;
+    color: #D0D0D0;        
+}

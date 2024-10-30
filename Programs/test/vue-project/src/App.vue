@@ -1,4 +1,4 @@
-
+<!-- 
 <template>
   <div className="box">
       <input type="text" v-model="userName" placeholder="Name">
@@ -96,7 +96,7 @@ button{
   text-align: center;
   margin: 0 auto;
 }
-</style> 
+</style>  -->
  <!-- <template>
     <div className="container">
         <h1>Погодное приложение</h1>
@@ -199,7 +199,7 @@ import axios from 'axios';
   transform: scale(1.1) translateY(-5px);
 }
 </style>  -->
-  <!-- <template>
+  <template>
   <div class="container">
       <h1>Погодное приложение</h1>
       <p>Узнать погоду в {{ city === "" ? "вашем городе" : cityName }}</p>
@@ -254,6 +254,8 @@ export default {
           axios.get(`https://api.openweathermap.org/data/2.5/weather?q=${this.city}&units=metric&appid=${this.api}`)
               .then(res => {
                   this.info = res.data;
+                  console.log(res.data);
+                  
               })
               .catch(() => {
                   this.error = "Город не найден!";
@@ -308,7 +310,7 @@ export default {
 .container button:hover {
   transform: scale(1.1) translateY(-5px);
 }
-</style>  -->
+</style> 
 <!-- <template>
   <h1>CRYPTO</h1>
   <Input :changeAmount="changeAmount"/>
@@ -352,8 +354,8 @@ export default{
     margin: 0 auto;
   }
 </style> -->
-<!-- 
-<template>
+
+<!-- <template>
   <h1>CRYPTO</h1>
   <Input :changeAmount="changeAmount" :convert="convert"/>
   <p v-if="error != ''">{{ error }}</p>

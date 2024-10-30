@@ -1,0 +1,44 @@
+.header-css{
+    height: 80px;
+    background-color: #0F0F0F;
+    display: flex;
+    align-items: center;
+}
+.header-text{
+    width: 104px;
+    height: 49px;
+    padding-left: 290px;   
+    font-family: "Stick No Bills", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 53.82px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.header-links{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-left: 480px;
+    font-family: PT Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.12px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.header-links-home{
+    width: 136px;
+    height: 80px;
+    background-color: #1F1F1F; 
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.header-icon-page a{
+    margin: 0 10px;
+}
+.header-icon-page-img{
+    width: 22px;
+    height: 22px;
+}

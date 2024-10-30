@@ -1,0 +1,38 @@
+footer{
+    margin-top: -300px;
+}
+.footer-h3{
+    width: 151px;
+    height: 32px;
+    margin-top: 50px;
+    left: 405px;
+    font-family:'Playfair Display',serif;
+    font-size: 24px;
+    line-height: 28.13px;
+    text-align: left;
+}
+.footer-text1{
+    width: 350px;
+    height: 147px;
+    margin-top: 50px;
+    left: 405px;
+    font-family: PT Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;        
+}
+.footer-btn{
+    margin-top: 50px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    background-color: #0F0F0F;
+    color:#D0D0D0;
+}
+.footer-btn2{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px 20px 10px 20px;
+    background-color: #0F0F0F;
+    color:#D0D0D0;
+}

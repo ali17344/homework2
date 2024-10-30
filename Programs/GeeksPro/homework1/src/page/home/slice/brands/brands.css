@@ -1,0 +1,29 @@
+.brands{
+    background-color: #0F0F0F;
+    height: 362px;  
+    margin-top: 90px;  
+}
+.brands-text{
+    color:#FFFFFF;
+    width: 348.17px;
+    height: 39px;
+    padding-top: 70px;
+    margin-left: 50%;
+    transform: translate(-50%,0);
+    gap: 0px;
+    font-family: 'Playfair Display',serif;
+    font-size: 36px;
+    line-height: 42.19px;
+    text-align: center; 
+}
+.brandLogo-box{
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.brandLogo{
+    width: 255px;
+    height: 94px;  
+}

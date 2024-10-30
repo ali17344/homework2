@@ -1,0 +1,28 @@
+.brands-text{
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    line-height: 42.19px;
+    text-align: center;
+    width: 440px;
+    height: 48px;
+    margin-top: 50px;
+    margin-left: 50%; 
+    transform: translate(-50%,0);   
+}
+.hr4{
+    width: 130.5px;
+    height: 0px;
+    margin-top: 80px;
+    margin-left:650px;
+    border: 1px solid #FFFFFF;
+}
+.card-time{
+    width: 240.75px;
+    height: 325px;
+    margin: 30px 20px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
