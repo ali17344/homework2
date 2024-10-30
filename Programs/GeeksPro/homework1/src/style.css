@@ -1,5 +1,378 @@
-@media (max-width: 425px){
-    .col-6{
-        /* width: 100%; */
+@media (max-width:1024px){
+    .box{
+        max-width: 1000px;
+        margin: 0 auto;
     }
-  }
+    .contact-account{
+        width: 200px;
+    }
+    .contact-container{
+        padding-left: 130px;
+    }
+    .header-text ,
+    .header-links{
+        padding-left: 250px;
+    }
+    .banner-brand-icon {
+        position: absolute;
+        width: 270px;
+        height: 270px;
+        margin-top: -400px;
+        margin-left: 365px;
+    }
+    .banner-brand-icon-h2 {
+        width: 185px;
+        height: 86px;
+        padding-top: 50px;
+        padding-left: 42.5px;
+        font-size: 64px;
+    }
+    .hr{
+        margin-left: 42.5px;
+        margin-top: 50px;
+    }
+    .banner-brand-icon-p{
+        margin-left: 42.5px;
+        margin-top: 5px;
+    }
+    .banner-text{
+        margin-top: -120px;
+    }
+    .col-6{
+        width: 100%;
+        margin: 30px auto;
+    }
+    .col-6-text{
+        margin-left: 0;
+    }
+    .hr2{
+        margin: 30px auto;
+    }
+    .col-6-2 {
+        position: absolute;
+        width: 500.9px;
+        margin-top: -300px;
+        margin-left: 300.05px;
+    }
+    .col-6-2 h3{
+        font-size: 40px;
+    }
+    .sale-btn{
+        margin-top: 30px;
+        margin-left: 147px;
+    }
+    .col-6-companyInfo-text {
+        font-size: 40px;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .companyInfo-text-p {
+        margin: -10px auto;
+        font-size: 20px;
+        width: 700px;
+    }
+    .sale-btn2{
+        margin-left: 329.5px;
+    }
+    .hr4{
+        margin: 80px auto 0;
+    }
+    .container2 {
+        display: flex;
+        justify-content: center;
+    }
+    .brands{
+        margin: 0;
+    }
+    .brandLogo{
+        width: 200px;
+    }
+    .footer-h3 {
+        margin-top: 90px;
+    }
+    .footer-text1 {
+        width: 300px;
+        height: 147px;
+        font-size: 16px;
+        margin: 0 auto;
+    }
+    .footer-btn{
+        margin: 2px auto 2px;
+    }
+    .footer-btn2{
+        margin: 2px auto 2px;
+    }
+}
+@media (max-width:768px){
+    .box{
+        max-width: 765px;
+        margin: 0 auto;
+    }
+    .contact-account{
+        width: 150px;
+    }
+    .contact-container{
+        padding-left: 50px;
+    }
+    .header-text ,
+    .header-links{
+        padding-left: 150px;
+    }
+    .banner-brand-icon {
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        margin-top: -320px;
+        margin-left: 282.5px;
+    }
+    .banner-brand-icon-h2 {
+        width: 185px;
+        height: 86px;
+        padding-top: 30px;
+        padding-left: 7.5px;
+        font-size: 64px;
+    }
+    .hr{
+        margin-left: 7.5px;
+        margin-top: 20px;
+    }
+    .banner-brand-icon-p{
+        margin-left: 7.5px;
+    }
+    .banner-text{
+        margin-top: -100px;
+    }
+    .col-6{
+        width: 100%;
+        margin: 30px auto;
+    }
+    .sale-container{
+        flex-wrap: nowrap;
+    }
+    .col-6-text{
+        margin-left: 0;
+    }
+    .hr2{
+        margin: 30px auto;
+    }
+    .col-6-2 {
+        position: absolute;
+        width: 500.9px;
+        margin: -300px 178.5px;
+    }
+    .col-6-2 h3{
+        font-size: 40px;
+    }
+
+    .sale-btn2{
+        margin-left: 207px;
+    }
+    .hr4{
+        margin: 50px auto 0;
+    }
+    .container2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 80px;
+    }
+    .brands{
+        margin: 0;
+        height: 250px;
+    }
+    .brands-text {
+        margin-top: 10px;
+    }
+    .brandLogo{
+        width: 150px;
+    }
+    .footer-h3 {
+        margin-top: 140px;
+        font-size: 16px;
+    }
+    .footer-text1 {
+        width: 230px;
+        height: 127px;
+        font-size: 9px;
+        margin: 0 auto;
+    }
+    .footer-btn{
+        margin: -6px 4px 1px;
+        padding: 5px 10px 5px 10px;
+    }
+    .footer-btn2{
+        margin: -6px 4px 1px;
+        padding: 5px 10px 5px 10px;
+    }
+}@media (max-width:426px){
+    .box{
+        margin: 0 auto;
+        max-width: 100%;
+        text-align: center;
+    }
+    .contact-text {
+        font-size: 9px;
+        width: 250px;
+    }
+    .contact-account{
+        width: 80px;
+    }
+    .contact-img{
+        width: 10px;
+        height: 10px;
+    }
+    .contact-container{
+        display: flex;
+        align-items: center;
+        margin-left: -50px;
+    }
+    .contact-container2{
+        margin-left: -130px;
+    }
+    .header-css{
+        height: 60px;
+    }
+    .header-text {
+        font-size: 22px;
+        padding-left: 30px;
+    }
+    .header-links{
+        font-size: 10px;
+        padding-left: 20px;
+    }
+    .header-links-home{
+        width: 100px;
+        height: 60px;
+    }
+    .header-icon-page a {
+        margin: 0 5px;
+    }
+    .header-icon-page-img{
+        width: 15px;
+        height: 15px;
+    }
+    .banner-brand-icon {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        margin-top: -160px;
+        margin-left: 162.5px;
+        border: 1.5px solid #FFFFFF;
+    }
+    .banner-brand-icon-h2 {
+        width: 85px;
+        height: 86px;
+        margin-top: -50px;
+        padding-left: 7.5px;
+        font-size: 22px;
+    }
+    .hr{
+        margin-left: 7.5px;
+        margin-top: 10px;
+        border: 1.5px solid #FFFFFF;
+        width: 85px;
+    }
+    .banner-brand-icon-p{
+        margin-left: -39.5px;
+        margin-top: -10px;
+        font-size: 12px;
+    }
+    .banner-text{
+        margin-top: -50px;
+        font-size: 9px;
+        width: 350px;
+        line-height: 10px;
+    }
+    .col-6{
+        width: 100%;
+        margin: 0px auto;
+    }
+    .sale-container{
+        flex-wrap: nowrap;
+    }
+    .col-6-text{
+        margin-left: 0;
+        font-size: 26px;
+    }
+    .hr2{
+        margin: 10px auto;
+    }
+    .sale-time-card{
+        margin: 0 20px;
+        height: 180px;
+    }
+    .sale-time-card-text{
+        font-size: 12px;
+    }
+    .col-6-2 {
+        position: absolute;
+        width: 200.9px;
+        margin: -180px 2.5px;
+    }
+    .col-6-2 h3{
+        font-size: 30px;
+    }
+    .sale-btn2{
+        margin-left: 57px;
+        margin-bottom: 15px;
+    }
+
+    .hr4{
+        margin: 50px auto 0;
+    }
+    .col-6-companyInfo-text {
+        font-size: 26px;
+    }
+    .companyInfo-text-p {
+        font-size: 12px;
+        width: 350px;
+        line-height: 15px;
+        height: 140px;
+    }
+    .container2 {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        column-gap: 80px;
+    }
+    .brands{
+        margin: 0;
+        height: 140px;
+    }
+    .brands-text {
+        font-size: 22px;
+        padding-top: 0;
+        height: 20px;
+        /* width: 425px; */
+    }
+    .brandLogo{
+        width: 70px;
+        margin-top: -50px;
+    }
+    .footer-h3 {
+        margin-top: 200px;
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .footer-text1 {
+        width: 120px;
+        height: 127px;
+        line-height: 6.75px;
+        font-size: 8px;
+        margin: -9.25px auto;
+    }
+    .footer-btn-box{
+        margin-top: -10px;
+        width: 135px;
+    }
+    .footer-btn{
+        margin: 2px;
+        padding: 2.5px 5px 2.5px 5px;
+        font-size: 8px;
+    }
+    .footer-btn2{
+        margin: 15px 1px;
+        padding: 2.5px 5px 2.5px 5px;
+        font-size: 8px;
+    }
+}

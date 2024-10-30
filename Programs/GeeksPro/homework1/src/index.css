@@ -7,23 +7,29 @@
   box-sizing: border-box;
 }
 body{
-  width: 1440px;
-  gap: 0px;
-  margin: 0 auto;
   color: #F9F9F9;
   background-color: #010101;
   font-family:'Playfair Display',serif;
 }
+.box{
+  margin: 0 auto;
+  max-width: 1440px;
+}
 img{
   width: 100%;
+  object-fit:contain;
 }
 .container{
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
+
 .row{
   display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100%;
+  gap: 30px;
 }
 .col-6{
   width: 50%;
