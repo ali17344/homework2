@@ -1,0 +1,241 @@
+@media screen and (max-width:1440px) {
+    .container{
+        max-width: 1400px;
+    }
+}
+@media screen and (max-width:1024px) {
+    .container{
+        max-width: 1000px;
+    }
+}
+@media screen and (max-width:768px) {
+    .container{
+        max-width: 750px;
+    }
+    .flex-container2{
+        flex-wrap: wrap-reverse;
+    }
+    .banner{
+        &-icon{
+            border: 2px solid white;
+            width: 20vw;
+            height: 20vw;
+            &-icon2{
+                &-text-h3{
+                    font-size: 5vw;
+                }
+                &-hr{
+                    border: 1px solid white;
+                    width: 15vw;
+                }
+                &-text-p{
+                    font-size: 2vw;
+                    line-height: 2vw;
+                    margin: 2vw auto;
+                }
+            }
+        }
+        &-text{
+            font-size: 1.5vw;
+            line-height: 2vw;
+            width: 50vw;
+        }
+    }
+    .col-6,.col-6-2{
+        margin: 0 auto;
+        width: 100%;
+        &-companyInfo-img{
+            height: 70%;
+            object-fit: cover;
+        }
+        &-text{
+            margin-top: 50vw;
+        }
+        &-text-p{
+            font-size: 1.5vw;
+            line-height: 2vw;
+            width: 40vw;
+        }
+        &-btn{
+            margin: 3vw 38vw;
+            &-2{
+                margin: 3vw 44vw;
+            }
+        }
+        &-time-card{
+            &-text{
+                font-size: 1.5vw;
+                line-height: 2vw;
+            }
+            &-img{
+            width: 150px;
+            }
+        }
+    }
+    .catalog{
+        margin: -9vw auto 0;
+    }
+    .time-card{
+        margin: 5px 50px;
+        &-img{
+            width: 150px;
+            height: 200px;
+        }
+        &-text-p{
+            font-size: 1.75vw;
+            line-height: 2.25vw;
+        }
+    }
+    .brands-logo{
+        width: 150px;
+        margin: 0 auto;
+    }
+    .footer{
+        &-text-h3{
+            padding: 3vw 0 1vw;
+        }
+        &-btn{
+            padding: 0;
+        }
+    }
+}
+@media screen and (max-width: 576px) {
+    .container {
+        max-width: 100%;
+        padding: 0 5px;
+    }
+    .burger-menu{
+        display: inline-block;
+    }
+    .check{
+        width: 30vw;
+        height: 40vw;
+        &-input{
+            margin: 3.5vw auto;
+            height: 5vw;
+            width: 28vw;
+            font-size: 3.5vw;
+        }
+        &-btn{
+            padding: 1vw;
+            width: 28vw;
+            font-size: 2vw;
+        }
+    }
+    .login{
+        height: 35vw;
+    }
+    .header-navLink-links{
+        display: none;
+    }
+    .banner{
+        padding-top: 7vw;
+        &-icon{
+            border: 2px solid white;
+            width: 25vw;
+            height: 25vw;
+            &-icon2{
+                &-text-h3{
+                    font-size: 7vw;
+                    margin: 5vw auto 0;
+                }
+                &-hr{
+                    border: 1px solid white;
+                    width: 20vw;
+                    margin: 1.5vw auto;
+                }
+                &-text-p{
+                    font-size: 3vw;
+                    line-height: 2vw;
+                    margin: 2vw auto 0;
+                }
+            }
+        }
+        &-text{
+            font-size: 2vw;
+            line-height: 2.5vw;
+            width: 80vw;
+        }
+    }
+    .col-6,.col-6-2{
+        margin: 0 auto;
+        width: 100%;
+        &-text-h3{
+            font-size: 4vw;
+        }
+        &-companyInfo-img{
+            height: 70%;
+            object-fit: cover;
+        }
+        &-text{
+            margin-top: 40vw;
+            font-size: 4vw;
+        }
+        &-text-p{
+            font-size: 2vw;
+            line-height: 2.5vw;
+            width: 70vw;
+        }
+        &-btn{
+            margin: 3vw 35vw;
+            padding: 1vw 5vw;
+            font-size: 1.75vw;
+            &-2{
+            font-size: 1.75vw;
+            margin: 3vw 43vw;
+            }
+        }
+        &-hr{
+            border: 0.2px solid white;
+        }
+        &-time-card{
+            &-text{
+                font-size: 2vw;
+                line-height: 2.5vw;
+            }
+            &-img{
+            width: 25vw;
+            }
+        }
+    }
+    .catalog{
+        margin: -12vw auto 0;
+        &-text-h3{
+            font-size: 4vw;
+        }
+    }
+    .time-card{
+        &-text-p{
+            font-size: 2.25vw;
+            line-height: 2.75vw;
+        }
+    }
+    .brands{
+        &-text-h3{
+            font-size: 4vw;
+            margin: 1vw auto 0;
+            line-height: 2vw;
+        }
+        &-logo{
+        width: 130px;
+        margin: 0 30px;
+        height: 50px;
+        }
+    }
+    .footer{
+        &-text-h3{
+            padding: 3vw 0 1vw;
+            font-size: 3vw;
+        }
+        &-text-p{
+            font-size: 1.3vw;
+            line-height: 1.6vw;
+            padding-bottom: 2vw;
+        }
+        &-btn{
+            font-size: 1.5vw;
+            margin: 0 auto;
+            padding: 0;
+        }
+    }
+}

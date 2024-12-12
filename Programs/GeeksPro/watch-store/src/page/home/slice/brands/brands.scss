@@ -1,0 +1,21 @@
+.brands{
+    background-color: #0F0F0F;
+    &-text-h3{
+        margin: 1vw auto;
+        font-family:' Playfair Display',serif;
+        font-size: 2.5vw;
+        line-height: 42.19px;
+        text-align: center;
+        padding-top: 2vw;
+    }
+    &-hr{
+        border: 1px solid #FFFFFF;
+        margin: 2vw auto;
+        width: 10vw;
+    }
+    &-logo{
+        width: 250px;
+        height: 94px;
+        margin: 3vw 2em;
+    }
+}

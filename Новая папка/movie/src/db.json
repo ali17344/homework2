@@ -1,0 +1,74 @@
+{
+    "movie": [
+        {
+            "id": "1",
+            "title": "Inside Out 2",
+            "year": "2024",
+            "front-img":"https://resizing.flixster.com/xOoNZeX-PNAQiSRvR_O2mO3Bk9U=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26192606_v_h9_ae.jpg",
+            "img": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_SY139_CR1,0,92,139_.jpg"
+        },
+        {
+            "id":"2",
+            "title":"Deadpool & Wolverine",
+            "year": "2024",
+            "front-img":"https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png",
+            "img":"https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_SY139_CR1,0,92,139_.jpg"
+        },
+        {
+            "id":"3",
+            "title":"Despicable Me 4",
+            "year": "2024",
+            "front-img":"https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "img":"https://m.media-amazon.com/images/M/MV5BNzY0ZTlhYzgtOTgzZC00ZTg2LTk4NTEtZDllM2E2NGE5Njg2XkEyXkFqcGc@._V1_SY139_CR0,0,92,139_.jpg"
+        },
+        {
+            "id":"4",
+            "title":"Dune: Part Two",
+            "year": "2024",
+            "front-img":"https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXZ0GMN/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",
+            "img":"https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_SY139_CR1,0,92,139_.jpg"
+        },
+        {
+            "id":"5",
+            "title":"Godzilla x Kong: The New Empire",
+            "year": "2024",
+            "front-img": "https://www.jbu.edu/hubfs/Imported_Blog_Media/Godzilla-kong-The-New-Empire-1.png",
+            "img":"https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_SY139_CR0,0,92,139_.jpg"
+        },
+        {
+            "id":"6",
+            "title":"Kung Fu Panda 4",
+            "year": "2024",
+            "front-img":"https://m.media-amazon.com/images/M/MV5BZjk3MGNmYjQtMzU3Yy00MzU5LWI5ZGItYTZkMDNiOGQ3YzMyXkEyXkFqcGc@._V1_.jpg",
+            "img":"https://m.media-amazon.com/images/M/MV5BMzJlNGYxYzQtOTg4MC00OTMyLTkwYzMtZDRlNTgwY2YwOWYxXkEyXkFqcGc@._V1_SX92_CR0,0,92,139_.jpg"
+        },
+        {
+            "id":"7",
+            "title":"Beetlejuice Beetlejuice",
+            "year":"2024",
+            "front-img":"https://upload.wikimedia.org/wikipedia/en/b/ba/Beetlejuice_Beetlejuice_poster.jpg",
+            "img": "https://m.media-amazon.com/images/M/MV5BYmRlYzE3ZTYtNjIyZi00MWYyLWEzZDItOWI5NzM1Yjc0NmI5XkEyXkFqcGc@._V1_SY139_CR1,0,92,139_.jpg"
+        },
+        {
+            "id":"8",
+            "title":"Bad Boys: Ride or Die",
+            "year":"2024",
+            "front-img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVv7FqactOAmfCOXdhSZfV2Y-6ZQu0OfpV5p0p2146xSqRAofZ1gT8NOZcqUdTiP08vXc&usqp=CAU",
+            "img":"https://m.media-amazon.com/images/M/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_SY139_CR0,0,92,139_.jpg"
+        },
+        {
+            "id":"9",
+            "title":"Kingdom of the Planet of the Apes",
+            "year":"2024",
+            "front-img": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_.jpg",
+            "img":"https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_SY139_CR1,0,92,139_.jpg"
+        },
+        {
+            "id":"10",
+            "title":"Twisters",
+            "year":"2024",
+            "front-img":"https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1721754919-81Pa0UsZMpL.jpg?crop=1xw:1xh;center,top&resize=980:*",
+            "img":"https://m.media-amazon.com/images/M/MV5BNjM4MWEwMTEtNTcwYi00ZDI4LWEwMzUtNDMzODBhZmI5MWE1XkEyXkFqcGc@._V1_SY139_CR1,0,92,139_.jpg"
+        }
+    ]
+}

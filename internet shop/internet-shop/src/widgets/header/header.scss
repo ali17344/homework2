@@ -1,0 +1,14 @@
+.header{
+    height: 100px;
+    background-color: #000000;
+    color: #FFFFFF;
+    &-links{
+        padding: 40px 5px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+    &-brand-name{
+        padding: 34px 0;
+        font-size: 32px;
+    }
+}

@@ -1,0 +1,142 @@
+.tovarInfo{
+    margin: 50px auto;
+    .shueImgBox{
+        position: absolute;
+        top: 125px;
+        left: 100px; 
+    }
+    .shueImg{
+        display: block;
+        margin: 25px auto;
+    }
+    .shueImg1{
+        width: 705px;
+        position: relative;      
+        height: 875px;
+        left: 250px; 
+    }
+    h3{
+        font-family: Inter;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 50px;
+        color: #8F8F8F;    
+    }
+    h2{
+        font-family: Inter;
+        font-size: 44px;
+        line-height: 50px;
+        font-weight: 500;      
+        width: 456px;  
+    }
+    h4{
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 50px;
+        color: #626161;        
+    }
+    a{
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 300;
+        color: #7A7A7A;
+        text-decoration: none;
+    }
+    a:focus,hr:focus{
+        color: #000000;
+        border-bottom: 3px solid black;
+    }
+    .color-btn{
+        width: 20px;
+        height: 20px;
+        margin: 5px 5px;
+        border-radius: 50%; 
+        border: none;
+    }
+    .red{
+        background-color:#9F2828;
+    }
+    .yellow{
+        background-color: #FFFCAB;
+    }
+    .green{
+        background-color: #A3C9B0;
+    }
+    .blue{
+        background-color: #CDDEFA;
+    }
+    .pink{
+        background-color: #FAC4FF;
+    }
+    .gray{
+        background-color: #7D7C7C;
+    }
+    .color-btn:focus{
+        border: 2.5px solid black;
+    }
+    .size-btn{
+        width: 100px;
+        height: 50px;     
+        margin: 0 5px 0 0;
+        font-family: Inter;
+        font-size: 32px;
+        font-weight: 400;
+        border: 0.5px solid black;    
+        transition: .8s;  
+        background-color: transparent;  
+    }
+    .size-btn:focus{
+        background-color: #000000;
+        color: #ffffff;
+    }
+    .flex-btn{
+        justify-content:left;
+        margin-top: 5px;
+    }
+    .add-to-bag{
+        width: 450px;
+        height: 50px;  
+        background-color: #000000;      
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        color: #ffffff;    
+    }
+    .like-btn{
+        width: 75px;
+        height: 50px;        
+        background-color: transparent;  
+        background-image: url(../../img/like.png);
+        background-repeat: no-repeat;
+        cursor: pointer;
+        background-position: 15px ;
+    }
+    .like-btn-black{
+        background-image: url(../../img/Vector.png);
+        background-repeat: no-repeat;
+        width: 75px;
+        height: 50px;        
+        background-color: transparent;  
+        cursor: pointer;
+        background-position: 15px ;
+    }
+    .details{
+        margin: 10px 0;
+        text-align: center;
+        hr{
+            width: 180px;
+            color: #b1b1b1;
+        }
+    }
+    .description-text{
+        font-family: Inter;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 24.2px;
+        text-align: left;
+        width: 400px;
+        height: 144px;
+        margin: 50px 0 -90px;
+    }
+}

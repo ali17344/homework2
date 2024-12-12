@@ -1,0 +1,43 @@
+.banner{
+    background-image: url('../../../img/banner.png');
+    background-size:cover;
+    padding-top: 10vw;
+    &-icon{
+        margin: 0 auto;
+        width: 15vw;
+        height: 15vw;
+        border: 3px solid #FFFFFF;
+        &-icon2{
+            margin: 4vw auto 0vw;
+            &-text-h3{ 
+                font-family: "Stick No Bills", sans-serif;
+                font-size: 3.5vw;
+                font-weight: 700;
+                line-height: 5vw;
+                text-align: center;
+            }
+            &-hr{
+                border: 2px solid #FFFFFF;
+                width: 10vw;
+                margin: 0 auto;
+            }
+            &-text-p{
+                font-family: PT Sans;
+                font-size: 1.5vw;
+                font-weight: 400;
+                line-height: 2vw;
+                text-align: center;                
+            }
+        }
+    }
+    &-text{
+        font-family: PT Sans;
+        font-size: 1vw;
+        font-weight: 400;
+        line-height: 1vw;
+        text-align: center;
+        width: 40vw;
+        margin: 2vw auto;
+        padding-bottom: 1.5vw;
+    }
+}

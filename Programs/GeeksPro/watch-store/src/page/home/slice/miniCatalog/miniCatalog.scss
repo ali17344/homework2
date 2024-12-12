@@ -1,0 +1,48 @@
+.col-6{
+    margin: -2vw auto;
+    &-text-h3{
+    margin: 2vw auto;
+    font-family: 'Playfair Display',sans-serif;
+    font-size: 2.5vw;
+    line-height: 3vw;
+    text-align: center;
+    }
+    &-hr{
+        border: 1px solid #FFFFFF;
+        width: 10vw;
+        margin: 2vw auto;
+    }
+    &-time-card{
+        margin: 2vw 0.5vw;
+        &-text{
+            font-family: 'Playfair Display',sans-serif;
+            font-size: 1.5vw;
+            line-height: 21.09px;
+            text-align: left;
+        }
+        &-img{
+            width: 15vw;
+        }
+    }
+    &-btn-2{
+        border: 1px solid #FFFFFF;
+        margin: 3vw 19.5vw;
+        padding: 1vw 3vw;
+        font-family: PT Sans;
+        font-size: 1.5vw;
+        font-weight: 400;
+        background-color: transparent;
+        color: #FFFFFF;
+    }
+}
+.col-6-2{
+    background-image: url('../../../img/sale.png');
+    background-size: cover;
+    &-text{
+        margin-top: 20vw;
+        font-family: 'Playfair Display',serif;
+        font-size: 2.5vw;
+        line-height: 3vw;
+        text-align: center;        
+    }
+}

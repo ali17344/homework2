@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: black;
+  color: white;
+  margin: 0 auto;
+  overflow:auto;
+}
+img{
+  width: 100%;
+  object-fit: contain;
+}
+.container{
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.col-6{
+  width: 50%;
+}
+.col-3{
+  width: 25%;
+}
+a{
+  color: #969696;
+  text-decoration: none;
+}
+.burger-menu{
+  display: none;
+}

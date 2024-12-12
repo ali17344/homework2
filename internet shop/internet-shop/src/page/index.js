@@ -1,0 +1,1 @@
+export {TovarPage} from './tovarPage/TovarPage'
